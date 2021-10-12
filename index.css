@@ -11,6 +11,7 @@ body {
 	margin-right: 29%;
 }
 
+/* references the body of the html file for the bibliography */
 #bibliography {
 	margin-right: 30%;
 }
@@ -31,6 +32,7 @@ body {
 	margin-top: 24px;
 }
 
+/* references the header of the page */
 #title_name {
 	margin-right: 10%;
 }
